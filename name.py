@@ -36,6 +36,7 @@ elif choice == 'спальня':
         basem()
     else:
         error()
+
 elif choice == 'подвал':
     basem()
 elif choice == 'кладовая':
